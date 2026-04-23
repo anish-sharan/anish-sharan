@@ -10,20 +10,26 @@
 
 ### 🌐 Connect with me
 
-<p align="left" style="display: flex; align-items: center; gap: 12px;">
-  <a href="https://www.linkedin.com/in/anish-sharan-7173571b3/" target="blank">
+<h3 align="left">🌐 Connect with me</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anish-sharan-7173571b3/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/anish_sharan" target="blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/anish_sharan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="30"/>
   </a>
-  <a href="https://leetcode.com/u/anish_sharan/" target="blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/anish_sharan/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="30"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/nadan_balak/" target="blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/nadan_balak/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="30"/>
   </a>
 </p>
+
 
 ---
 
