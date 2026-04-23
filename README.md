@@ -7,28 +7,32 @@
 <h3 align="center">Computer Science Enthusiast 🚀</h3>
 
 ---
-
-### 🌐 Connect with me
-
 <h3 align="left">🌐 Connect with me</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/anish-sharan-7173571b3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/anish_sharan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="30"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/anish_sharan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="30"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/nadan_balak/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="30"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/anish-sharan-7173571b3/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.hackerrank.com/profile/anish_sharan" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="30"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/anish_sharan/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="30"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.geeksforgeeks.org/user/nadan_balak/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="30"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
@@ -66,7 +70,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anish_sharan&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=anish-sharan&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -75,7 +79,7 @@
 
 * 🔭 Building full-stack projects
 * 🌱 Learning advanced system design
-* 💡 Practicing DSA daily
+* 💡 Practicing DSA 
 * ⚡ Exploring AI integrations
 
 ---
